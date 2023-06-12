@@ -28,11 +28,11 @@ section#telefone {
     width: 310px; 
 
     position: relative;
-   /* top: 25%;
-    left: 50%; */
+   top: 25%;
+    left: 50%;
 
     transform: translate(-25%, -50%);
-    background: url('../imagens/frame-iphone.png') no-repeat center center;
+    background: url('../imagens/frame-iphone.png') no-repeat;
 }
 
 iframe#tela {
